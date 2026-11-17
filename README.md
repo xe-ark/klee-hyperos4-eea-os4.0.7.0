@@ -50,3 +50,10 @@ Bu depo, **POCO X8 Pro / Redmi Turbo 5 (`klee`, MT6899)** cihazı için **HyperO
 ## İmajlar & Dosya Özeti
 - **`klee_eea_OS4.0.7.0_fastboot.zip`**: Güncellenmiş `super.img` (`8.414.505.048` B, `lpmake --virtual-ab --sparse`), `vendor_boot.img` (düzeltilmiş OrangeFox), `init_boot.img` (KernelSU Next), `lk.img`, `preloader.img` ve tüm fastboot imajlarını içerir.
 - **`OrangeFox-R12.0-klee-OS4.0.7-fixed.img`**: Gelecek sürümlerde doğrudan kullanılabilecek bağımsız düzeltilmiş OrangeFox imajı (`67.108.864` B).
+
+---
+
+## Teşekkürler / Credits
+- **Kakashi (`@kashis_cringey_stuffs`)** — `HyperOS4_RustLauncherMod_v1.4`, `HyperOS_ScreenshotV1.1`, `FreeStyle_CC_mod_V1`, `HyperOS_SecurityV8` ve `HyperOS_ThemeManagerV7` modülleri için.
+- **Kylixd** — `klee` için OrangeFox R12.0 temel derlemesi için.
+- **Kazethelight** — Fenrir (`lk_fenrir` & `preloader_fenrir`) için.
