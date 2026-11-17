@@ -36,6 +36,17 @@ Bu depo, **POCO X8 Pro / Redmi Turbo 5 (`klee`, MT6899)** cihazı için **HyperO
 
 ---
 
+## İndirme Bağlantıları (Google Drive)
+- **Fastboot ROM (`klee_eea_OS4.0.7.0_fastboot.zip`, `7.046.286.390` B / `~6.6 GB`)**:
+  - https://drive.google.com/file/d/1T8byCaVyNgYRp-qwIlWojcxU2OwECowK/view?usp=drivesdk
+- **Düzeltilmiş OrangeFox R12.0 (`OrangeFox-R12.0-klee-OS4.0.7-fixed.img`, `67.108.864` B)**:
+  - https://drive.google.com/file/d/1EljlFDioPf1hHIndN5QNHJvRrfnfQKI8/view?usp=drivesdk
+- **Geliştiriciler için Saf Recovery Ramdisk & Ayrı OrangeFox Reposu**:
+  - GitHub: https://github.com/xe-ark/klee-orangefox-r12
+  - Google Drive (`ofox_r12_klee_recovery_ramdisk.lz4`): https://drive.google.com/file/d/1ht35j7uJd6fcH4CFkghyIy1wE_30X-nA/view?usp=drivesdk
+
+---
+
 ## İmajlar & Dosya Özeti
 - **`klee_eea_OS4.0.7.0_fastboot.zip`**: Güncellenmiş `super.img` (`8.414.505.048` B, `lpmake --virtual-ab --sparse`), `vendor_boot.img` (düzeltilmiş OrangeFox), `init_boot.img` (KernelSU Next), `lk.img`, `preloader.img` ve tüm fastboot imajlarını içerir.
 - **`OrangeFox-R12.0-klee-OS4.0.7-fixed.img`**: Gelecek sürümlerde doğrudan kullanılabilecek bağımsız düzeltilmiş OrangeFox imajı (`67.108.864` B).
