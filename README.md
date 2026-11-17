@@ -54,6 +54,6 @@ Bu depo, **POCO X8 Pro / Redmi Turbo 5 (`klee`, MT6899)** cihazı için **HyperO
 ---
 
 ## Teşekkürler / Credits
-- **Kakashi (`@kashis_cringey_stuffs`)** — `HyperOS4_RustLauncherMod_v1.4`, `HyperOS_ScreenshotV1.1`, `FreeStyle_CC_mod_V1`, `HyperOS_SecurityV8` ve `HyperOS_ThemeManagerV7` modülleri için.
-- **Kylixd** — `klee` için OrangeFox R12.0 temel derlemesi için.
-- **Kazethelight** — Fenrir (`lk_fenrir` & `preloader_fenrir`) için.
+- **kakashi1v1 (`@kashis_cringey_stuffs`)** — `HyperOS4_RustLauncherMod_v1.4`, `HyperOS_ScreenshotV1.1`, `FreeStyle_CC_mod_V1`, `HyperOS_SecurityV8` ve `HyperOS_ThemeManagerV7` modülleri için.
+- **khayloaf** — `klee` için OrangeFox R12.0 temel derlemesi için.
+- **KazeTheLight** — Fenrir (`lk_fenrir` & `preloader_fenrir`) için.
